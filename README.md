@@ -8,7 +8,7 @@ The e-commerce site, is an online platform where businesses and individuals can 
       (a) Enables users to add products to a virtual shopping cart.
       (b) Users can view, update, or remove items from their cart before proceeding to checkout.
 
-3. ChECKOUT PROCESS:
+3. CHECKOUT PROCESS:
       (a) Provides a summary of the items in the cart, including total cost.
       (b) Collects and processes shipping addresses and options.
 
